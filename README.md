@@ -12,5 +12,5 @@ I'm a **Systems Engineer** passionate about **Data Analytics**. I specialize in 
 
 🌱 **Currently learning:** Advanced SQL & Machine Learning basics.
 
-📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/aaron-sebasti%C3%A1n-a680a7159/)
+📫 **Let's connect:** [LinkedIn](www.linkedin.com/in/aaron-lescano-data)
 
